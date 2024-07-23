@@ -29,4 +29,6 @@ Q. Do you need a label element or does a div work?
 
 8. When currency or amount is changed in the InputBox component, the respective states are to be updated in App component, hence the set function of `useState` is send as props
 
-9. How to convert the corresponding values simultaneously using `useEffect`?
+9. When swap button is clicked, how to convert the corresponding values simultaneously using `useEffect`?
+
+10. The inputAmount cannot be cleared through backspace key. Why?
