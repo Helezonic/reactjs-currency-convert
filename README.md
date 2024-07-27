@@ -2,6 +2,10 @@
 
 (Less focus on UI, more on the functionality)
 
+- Bundler - Vite
+
+- CSS Library - Tailwind [postCSS, autoprefixer]
+
 - Use of Custom Hook - useCurrencyList - for fetching currency conversion rates
 
 - Input Box as a component that is exported through index file in component directory

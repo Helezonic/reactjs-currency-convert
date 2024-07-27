@@ -36,7 +36,7 @@ const convert = useCallback(() => {
   return (
     <>
       
-        <div className="h-screen w-screen bg-cover bg" style={{backgroundImage : `url(https://getwallpapers.com/wallpaper/full/b/9/7/257007.jpg)`}}>
+        <div className="h-screen w-screen bg-cover" style={{backgroundImage : `url(https://getwallpapers.com/wallpaper/full/b/9/7/257007.jpg)`}}>
           <div className="h-max min-w-fit w-1/3 flex-row justify-center relative top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 p-8 hover:backdrop-brightness-90 rounded-xl backdrop-blur-xl">
 
             <div className="">
